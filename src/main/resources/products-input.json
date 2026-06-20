@@ -1,0 +1,47 @@
+[
+    {
+        "Id": "EXT-001",
+        "title": "iPhone 13 128GB",
+        "description": "Smartphone Apple...",
+        "price": "18999.99",
+        "currency": "MXN",
+        "category": "smartphones",
+        "active": true
+    },
+    {
+        "Id": "EXT-002",
+        "title": "Samsung Galaxy S22",
+        "description": "Gama alta...",
+        "price": "17499.50",
+        "currency": "MXN",
+        "category": "smartphones",
+        "active": true
+    },
+    {
+        "Id": "EXT-003",
+        "title": "MacBook Air M1",
+        "description": "Laptop ligera...",
+        "price": "21999.00",
+        "currency": "MXN",
+        "category": "laptops",
+        "active": true
+    },
+    {
+        "Id": "EXT-004",
+        "title": "Dell XPS 13",
+        "description": "Ultrabook premium...",
+        "price": "24999.99",
+        "currency": "MXN",
+        "category": "laptops",
+        "active": true
+    },
+    {
+        "Id": "EXT-005",
+        "title": "Audífonos Sony WH-1000XM4",
+        "description": "Cancelación de ruido",
+        "price": "5999.00",
+        "currency": "MXN",
+        "category": "audio",
+        "active": true
+    }
+]
